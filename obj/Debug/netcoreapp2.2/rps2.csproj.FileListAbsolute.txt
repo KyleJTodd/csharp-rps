@@ -1,0 +1,11 @@
+C:\Source\Codeworks\rps2\bin\Debug\netcoreapp2.2\rps2.deps.json
+C:\Source\Codeworks\rps2\bin\Debug\netcoreapp2.2\rps2.runtimeconfig.json
+C:\Source\Codeworks\rps2\bin\Debug\netcoreapp2.2\rps2.runtimeconfig.dev.json
+C:\Source\Codeworks\rps2\bin\Debug\netcoreapp2.2\rps2.dll
+C:\Source\Codeworks\rps2\bin\Debug\netcoreapp2.2\rps2.pdb
+C:\Source\Codeworks\rps2\obj\Debug\netcoreapp2.2\rps2.csprojAssemblyReference.cache
+C:\Source\Codeworks\rps2\obj\Debug\netcoreapp2.2\rps2.csproj.CoreCompileInputs.cache
+C:\Source\Codeworks\rps2\obj\Debug\netcoreapp2.2\rps2.AssemblyInfoInputs.cache
+C:\Source\Codeworks\rps2\obj\Debug\netcoreapp2.2\rps2.AssemblyInfo.cs
+C:\Source\Codeworks\rps2\obj\Debug\netcoreapp2.2\rps2.dll
+C:\Source\Codeworks\rps2\obj\Debug\netcoreapp2.2\rps2.pdb
